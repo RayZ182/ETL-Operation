@@ -1,0 +1,9 @@
+{
+	"name": "df-dev-rayz",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "66d95f98-34d7-415f-bbbe-3c504ee60fce",
+		"tenantId": "06943ac0-3679-4445-9507-60447807fa0d"
+	}
+}
